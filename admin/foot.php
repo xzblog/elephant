@@ -1,0 +1,1 @@
+<div id="footer">Copyright &copy; <span style="color:#FF5200">Woaik</span><span style="color:#0065FF">.Com</span> , Powered by <a href="http://v.woaik.com" target="_blank">大象影院</a></div><?php 
