@@ -9,7 +9,7 @@
 <div class="branding branding-black">
 	<div class="container" style="text-align: center;">
 		<h2><?php echo $aik['sitename'];?> - 海量高清VIP视频免费观看</h2>
-						<a target="blank" class="gobtn" href="https://jq.qq.com/?_wv=1027&k=4B2cno8">加入Q群</a>	
+						<!-- <a target="blank" class="gobtn" href="https://jq.qq.com/?_wv=1027&k=4B2cno8">加入Q群</a>	 -->
 			</div>
 </div>
 <p style="padding: 0 4px;"><?php echo $aik['foot'];?><br/>管理员邮箱：<?php echo $aik['admin_email'];?><br/>&copy; 2017 <a href="<?php echo $aik['pcdomain'];?>"><?php echo $aik['sitename'];?></a>&nbsp; <a href="http://www.miitbeian.gov.cn"><?php echo $aik['icp'];?></a>&nbsp; 

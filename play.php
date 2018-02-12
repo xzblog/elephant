@@ -62,10 +62,11 @@ include ('./inc/aik.config.php');
     <div class="content-wrap">
     	<div class="content">
 <!-- <div class="asst asst-post_header"><img src="http://www.xiaoerhu.com/gg/gg.png" border="0" usemap="#Map" style="width:100%"> -->
-<map name="Map" id="Map">
+<!-- <map name="Map" id="Map">
   <area shape="rect" coords="-79,-1,420,164" href="http://vip.woaik.com" />
   <area shape="rect" coords="420,-1,1555,168" href="http://wpa.qq.com/msgrd?v=3&uin=776774592&site=qq&menu=yes" />
-</map></div>
+</map> -->
+<!-- </div> -->
 <div class="sptitle"><h1><?php echo $timu; ?></h1></div>
 <div id="bof">
 </div>
